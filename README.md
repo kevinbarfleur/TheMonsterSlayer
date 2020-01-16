@@ -1,2 +1,0 @@
-# TheMonsterSlayer
-Created with CodeSandbox
